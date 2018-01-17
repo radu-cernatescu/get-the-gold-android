@@ -1,1 +1,1 @@
-# get-the-gold-android
+This is a silly game for any Android device. You are a Doge character and the whole point of the game is to collect the Doge coins. Once you have collected all the coins, you can reset and play again. This is an .apk file and can be installed on any Android device that has Unknown Sources ticked in Application Settings.
